@@ -1,6 +1,6 @@
 # KNN Matting
 
-This repo reimplement knn-matting[1] based on GPU-based in FAISS[2] Library.
+This repo reimplement [knn-matting](https://dingzeyu.li/files/knn-matting-cvpr2012.pdf) based on GPU-based in [FAISS](https://github.com/facebookresearch/faiss) Library.
 
 ### Inference
 
@@ -8,11 +8,11 @@ This repo reimplement knn-matting[1] based on GPU-based in FAISS[2] Library.
 
 * Follow each cells for environment installation and inference
 
+### Results
 
+![woman](.\src\woman.png)![woman_trimap](.\src\woman_trimap.png)![woman_alpha](.\src\woman_alpha.png)![woman_composite](.\src\woman_composite.png)
 
 ### Reference
-
-[1] 
 
 ```
 @article{Chen:2012:KM,
@@ -27,8 +27,6 @@ This repo reimplement knn-matting[1] based on GPU-based in FAISS[2] Library.
    doi={10.1109/TPAMI.2013.18}
 }
 ```
-
-[2]
 
 ```
 @article{JDH17,

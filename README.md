@@ -10,7 +10,7 @@ This repo reimplement [knn-matting](https://dingzeyu.li/files/knn-matting-cvpr20
 
 ### Results
 
-![woman](.\src\woman.png)![woman_trimap](.\src\woman_trimap.png)![woman_alpha](.\src\woman_alpha.png)![woman_composite](.\src\woman_composite.png)
+![woman](https://raw.githubusercontent.com/jinczing/gpu-knn-matting/master/src/woman.png)![woman_trimap](https://raw.githubusercontent.com/jinczing/gpu-knn-matting/master/src/woman_trimap.png)![woman_alpha](https://raw.githubusercontent.com/jinczing/gpu-knn-matting/master/src/woman_alpha.png)![woman_composite](https://raw.githubusercontent.com/jinczing/gpu-knn-matting/master/src/woman_composite.png)
 
 ### Reference
 
